@@ -22,7 +22,7 @@ Vamos com calma para entender melhor?
 - 4️⃣ Entãooo para termos a conta exata precisamos SUBTRAIR. Ficou claro pra ti? Me conta ae!
 
 ```
-    export function remainingMinutesInOven(actualMinutesInOven) `
+    export function remainingMinutesInOven(actualMinutesInOven)
     {
         return EXPECTED_MINUTES_IN_OVEN - actualMinutesInOven;
     }
@@ -52,6 +52,9 @@ Vamos para a última task!
 
 
 Durante o conclusão desse artigo, tive algumas dúvidas, esses links me ajudaram, espero que faça o mesmo com você: 
-[import e export](https://blog.betrybe.com/tecnologia/import-e-export/#3)
+
+- [import e export](https://blog.betrybe.com/tecnologia/import-e-export/#3)
+
+- [Documentação](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values)
 
 Feito com ❤ por [Nycole](https://github.com/nycolexavier)
