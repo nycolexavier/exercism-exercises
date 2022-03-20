@@ -48,7 +48,6 @@ Vamos para a última task!
     {
         return preparationTimeInMinutes(numberOfLayers) + actualMinutesInOven;
     }
-
 ```
 
 
