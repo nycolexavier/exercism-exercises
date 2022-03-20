@@ -1,4 +1,4 @@
-![javascript-banner](https://user-images.githubusercontent.com/74930052/153689919-e6a21a98-5818-4905-b49d-da7e400bc060.png)
+![banner](https://user-images.githubusercontent.com/74930052/159165685-0b171678-a587-420a-ba7b-c97a89e5413f.png)
 
 <img src="https://img.shields.io/static/v1?label=Status&message=incomplete&color=ff0000&style=for-the-badge&logo=ghost"/>
 
