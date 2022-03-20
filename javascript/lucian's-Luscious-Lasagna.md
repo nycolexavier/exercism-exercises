@@ -15,7 +15,7 @@ Coisas que precisamos fazer:
 
 Vamos com calma para entender melhor? 
 
-- 1️⃣ Primeiro, nós temos uma função que se chama ``remainingMinutesInOven`, certo? 
+- 1️⃣ Primeiro, nós temos uma função que se chama `remainingMinutesInOven`, certo? 
 - 2️⃣ Ela tem um parâmetro (o que está entre parênteses na função, lembrou?) 
 - 3️⃣ Beleza, temos uma função, ela tem um parâmetro mas, o que ela tem que retornar para nós? 
 - 4️⃣ O tempo que precisa ficar no forno que está sendo definido pela const `EXPECTED_MINUTES_IN_OVEN` e nós precisamos do tempo que já ficou no forno que a const `actualMinutesInOven`
@@ -30,7 +30,7 @@ Vamos com calma para entender melhor?
 
 - Task 3: Implementar a função `preparationTimeInMinutes()` que está pegando o número de camadas que você tem como parâmetro (`numberOfLayers`) e retornar quantos minutos você gastou preparando-a, supondo que você leve 2 minutos para fazer isso.
 
-Explicação: a função precisa retornar quantos minutos você vai levar para todas as camadas. Para isso, vamos precisar de dois valores, o quantidade de camadas (que ali esta sendo passada como um parâmetro `numberOfLayers`) e quanto tempo vou levar para fazer cada camada ``PREPARATION_MINUTES_PER_LAYER`. Com essa informação podemos MULTIPLICAR e chegar no resultado, assim:
+Explicação: a função precisa retornar quantos minutos você vai levar para todas as camadas. Para isso, vamos precisar de dois valores, o quantidade de camadas (que ali esta sendo passada como um parâmetro `numberOfLayers`) e quanto tempo vou levar para fazer cada camada `PREPARATION_MINUTES_PER_LAYER`. Com essa informação podemos MULTIPLICAR e chegar no resultado, assim:
 
 ```
     export function preparationTimeInMinutes(numberOfLayers) 
