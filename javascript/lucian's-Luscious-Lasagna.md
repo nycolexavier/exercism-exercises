@@ -11,7 +11,6 @@ Coisas que precisamos fazer:
 ```
 
 - Task: 2 Implementar a função `remainingMinutesInOven()` que leva como parâmetro os minutos reais que esteve no forno e retorne quantos minutos a lasanha ainda precisa permanecer no forno, com base no tempo de forno esperado em minutos da tarefa anterior.
-[gif de tela azul]
 
 Vamos com calma para entender melhor? 
 
