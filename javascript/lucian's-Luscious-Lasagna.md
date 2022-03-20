@@ -5,9 +5,7 @@ Coisas que precisamos fazer:
 - Task 1: Definir a constante `EXPECTED_MINUTES_IN_OVEN` que representa com quantos minutos vai precisar ficar no forno. Deve ser exportada. O valor que temos que dar a essa `const` é de 40.
 
 `
-    /**
-        * The number of minutes it takes to prepare a single layer.
-    */
+
     const PREPARATION_MINUTES_PER_LAYER = 2;
 
     export const EXPECTED_MINUTES_IN_OVEN = 40;
